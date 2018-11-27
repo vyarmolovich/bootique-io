@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://bootique.io/cla/</loc>
+    <lastmod>2016-09-16T21:02:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bootique.io/docs/</loc>
+    <lastmod>2016-09-16T21:02:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bootique.io/docs/0/bootique-docs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bootique.io/docs/latest/bootique-docs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bootique.io/docs/0/bootique-logback-docs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bootique.io/docs/latest/bootique-logback-docs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bootique.io/docs/0/bootique-jetty-docs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bootique.io/docs/latest/bootique-jetty-docs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bootique.io/docs/latest/bootique-kotlin-docs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bootique.io/</loc>
+    <lastmod>2016-09-16T21:02:04+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bootique.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bootique.io/docs/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bootique.io/docs/0/getting-started/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bootique.io/docs/latest/getting-started/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bootique.io/page/</loc>
+    <lastmod>2016-09-16T21:02:04+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bootique.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

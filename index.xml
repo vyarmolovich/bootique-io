@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bootique: Minimally Opinionated Framework for Runnable Java</title>
+    <link>https://bootique.io/</link>
+    <description>Recent content on Bootique: Minimally Opinionated Framework for Runnable Java</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Sep 2016 21:02:04 +0300</lastBuildDate>
+    
+	<atom:link href="https://bootique.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contributor License Agreement</title>
+      <link>https://bootique.io/cla/</link>
+      <pubDate>Fri, 16 Sep 2016 21:02:04 +0300</pubDate>
+      
+      <guid>https://bootique.io/cla/</guid>
+      <description>What is This About? We (the Bootique project) happily accept code and documentation contributions from the community. So what do you need to do to get your pull request approved? Other then the technical merit of each pull request, we will ask for one more thing. You need to do it only once. We need a form from you that documents the terms of your contributions. This is how we can ensure that Bootique as a whole can be distributed under the Apache license.</description>
+    </item>
+    
+    <item>
+      <title>Documentation</title>
+      <link>https://bootique.io/docs/</link>
+      <pubDate>Fri, 16 Sep 2016 21:02:04 +0300</pubDate>
+      
+      <guid>https://bootique.io/docs/</guid>
+      <description>Common Documentation and Examples    Getting Started : A short tutorial that will get you started quickly.   Core : Main documentation collection explaining fundamental framework concepts, such as modules, configuration, commands, dependency injection, unit testing.   bootique-examples : A collection of simple projects demonstrating the use of Bootique and various modules for typical programming scenarios.     Modules (in alphabetical order)     bootique-agrest Integrates Agrest, a powerful model-driven REST framework.</description>
+    </item>
+    
+    <item>
+      <title>Bootique Core Documentation</title>
+      <link>https://bootique.io/docs/0/bootique-docs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bootique.io/docs/0/bootique-docs/</guid>
+      <description>Table of Contents 1. Part I. Overview 1.1. Chapter 1. What is Bootique 1.2. Chapter 2. Java Version 1.3. Chapter 3. Build System 1.4. Chapter 4. Programming Skills   2. Part II. Programming 2.1. Chapter 5. Modules 2.2. Chapter 6. Modules Auto-Loading 2.3. Chapter 7. Configuration and Configurable Factories 2.4. Chapter 8. Using Modules 2.5. Chapter 9. Application Class 2.6. Chapter 10. Commands 2.7. Chapter 11. Options 2.8. Chapter 12.</description>
+    </item>
+    
+    <item>
+      <title>Bootique Core Documentation</title>
+      <link>https://bootique.io/docs/latest/bootique-docs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bootique.io/docs/latest/bootique-docs/</guid>
+      <description>Table of Contents 1. Part I. Overview 1.1. Chapter 1. What is Bootique 1.2. Chapter 2. Java Version 1.3. Chapter 3. Build System 1.4. Chapter 4. Programming Skills   2. Part II. Programming 2.1. Chapter 5. Modules 2.2. Chapter 6. Modules Auto-Loading 2.3. Chapter 7. Configuration and Configurable Factories 2.4. Chapter 8. Using Modules 2.5. Chapter 9. Application Class 2.6. Chapter 10. Commands 2.7. Chapter 11. Options 2.8. Chapter 12.</description>
+    </item>
+    
+    <item>
+      <title>Bootique Integration with Logback</title>
+      <link>https://bootique.io/docs/0/bootique-logback-docs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bootique.io/docs/0/bootique-logback-docs/</guid>
+      <description>Table of Contents 1. Bootique Integration with Logback 2. Configuration Reference 2.1. log 2.2. log.appenders 2.3. log.loggers   3. Logback Sentry Module 3.1. Setup 3.2. Add bootique-logback-sentry to your build tool: 3.3. Write Configuration     1. Bootique Integration with Logback As mentioned in Bootique general documentation on logging, standard modules rely on SLF4J loggers that can be easily bridged to various advanced logging frameworks. Same maximally neutral logging approach is reasonable to apply in the user modules as well.</description>
+    </item>
+    
+    <item>
+      <title>Bootique Integration with Logback</title>
+      <link>https://bootique.io/docs/latest/bootique-logback-docs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bootique.io/docs/latest/bootique-logback-docs/</guid>
+      <description>Table of Contents 1. Bootique Integration with Logback 2. Configuration Reference 2.1. log 2.2. log.appenders 2.3. log.loggers   3. Logback Sentry Module 3.1. Setup 3.2. Add bootique-logback-sentry to your build tool: 3.3. Write Configuration     1. Bootique Integration with Logback As mentioned in Bootique general documentation on logging, standard modules rely on SLF4J loggers that can be easily bridged to various advanced logging frameworks. Same maximally neutral logging approach is reasonable to apply in the user modules as well.</description>
+    </item>
+    
+    <item>
+      <title>Bootique Jetty Documentation</title>
+      <link>https://bootique.io/docs/0/bootique-jetty-docs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bootique.io/docs/0/bootique-jetty-docs/</guid>
+      <description>Table of Contents 1. Chapter 1. Bootique Integration with Jetty 2. Chapter 2. Programming Jetty Applications 2.1. Servlets 2.2. Servlet Filters 2.3. Listeners 2.4. Serving Static Files   3. Chapter 3. Configuration Reference 3.1. jetty     1. Chapter 1. Bootique Integration with Jetty bootique-jetty module embeds Jetty web server in your application. It provides environment for running servlet specification objects (servlets, servlet filters, servlet listeners). Also you will be able to serve static files that are either packaged in the application jar or located somewhere on the filesystem.</description>
+    </item>
+    
+    <item>
+      <title>Bootique Jetty Documentation</title>
+      <link>https://bootique.io/docs/latest/bootique-jetty-docs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bootique.io/docs/latest/bootique-jetty-docs/</guid>
+      <description>Table of Contents 1. Chapter 1. Bootique Integration with Jetty 2. Chapter 2. Programming Jetty Applications 2.1. Servlets 2.2. Servlet Filters 2.3. Listeners 2.4. Serving Static Files   3. Chapter 3. Configuration Reference 3.1. jetty     1. Chapter 1. Bootique Integration with Jetty bootique-jetty module embeds Jetty web server in your application. It provides environment for running servlet specification objects (servlets, servlet filters, servlet listeners). Also you will be able to serve static files that are either packaged in the application jar or located somewhere on the filesystem.</description>
+    </item>
+    
+    <item>
+      <title>Bootique Kotlin Module</title>
+      <link>https://bootique.io/docs/latest/bootique-kotlin-docs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bootique.io/docs/latest/bootique-kotlin-docs/</guid>
+      <description>Table of Contents 1. Overview 2. TL;DR; 3. Getting started 4. Bootique 4.1. KotlinBootique 4.2. KotlinBQModuleProvider 4.3. Extension: ConfigurationFactory.config 4.4. Extension: BQCoreModuleExtender.addCommand 4.5. Extension: BQCoreModuleExtender.setDefaultCommand 4.6. Extensions 4.7. Deprecated Extensions 4.8. Guice   5. Configuration Module 5.1. Configuration with Kotlin can be defined in Kotlin Script file: 5.2. Enable Kotlin Script Configuration in Bootique:   6. Bootique Jetty 7. Bootique Logback 8. Bootique Undertow   1. Overview bootique-kotlin contains following modules:</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Bootique</title>
+      <link>https://bootique.io/docs/0/getting-started/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bootique.io/docs/0/getting-started/</guid>
+      <description>Table of Contents 1. Hello World in Bootique 2. Configuration 3. Injection 4. Packaging   1. Hello World in Bootique The goal of this chapter is to write a simple REST app using Bootique. Let&amp;#8217;s start with a new Java Maven project created in your favorite IDE. Your pom.xml in addition to the required project information tags will need to declare a few BOM (&#34;Bill of Material&#34;) imports in the &amp;lt;dependencyManagement/&amp;gt; section:</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Bootique</title>
+      <link>https://bootique.io/docs/latest/getting-started/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bootique.io/docs/latest/getting-started/</guid>
+      <description>Table of Contents 1. Hello World in Bootique 2. Configuration 3. Injection 4. Packaging   1. Hello World in Bootique The goal of this chapter is to write a simple REST app using Bootique. Let&amp;#8217;s start with a new Java Maven project created in your favorite IDE. Your pom.xml in addition to the required project information tags will need to declare a few BOM (&#34;Bill of Material&#34;) imports in the &amp;lt;dependencyManagement/&amp;gt; section:</description>
+    </item>
+    
+  </channel>
+</rss>
